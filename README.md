@@ -1,4 +1,4 @@
-# Albums
+# Photos
 
 ## Versions
 - **Java:** 21
